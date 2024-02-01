@@ -1,0 +1,7 @@
+3D printed PLA
+30% infill
+supports enabled
+
+opening was CAD to manufacturer's recommendations but retaining tab area is tight...trim tabs or enclosure with utility knife
+
+apply a few dabs of Crazy Glue to end cap
