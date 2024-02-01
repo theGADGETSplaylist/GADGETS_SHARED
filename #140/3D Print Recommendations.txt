@@ -1,0 +1,5 @@
+See bed orientation pictures.
+
+100% infill
+
+NO supports enabled
