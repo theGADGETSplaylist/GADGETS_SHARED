@@ -1,0 +1,32 @@
+THIS IS FOR 3.5 LCD TYPE "A"
+
+At command prompt enter following:
+
+git clone https://github.com/waveshare/LCD-show.git
+
+[hit enter]
+
+cd LCD-show/
+
+[hit enter]
+
+chmod +x LCD35-show ./LCD35-show
+
+[hit enter]
+
+ ./LCD35-show lite
+
+[hit enter]
+
+
+THE FOLLOWING WILL ALLOW YOU TO TURN CAMERA ON IN CONFIG (LCD installation may have disabled camera):
+
+sudo raspi-config
+
+[hit enter]
+
+SELECT OPTION 5 AND THEN CAMERA TO TURN ON
+
+
+
+
