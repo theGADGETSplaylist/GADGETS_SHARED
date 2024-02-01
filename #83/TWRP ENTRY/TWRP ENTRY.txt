@@ -1,0 +1,13 @@
+In Pi serial terminal, gain root priviledges by typing:
+
+su
+
+HIT ENTER
+
+You will see the # in the command prompt indicating success. Then type the following:
+
+rpi3-recovery.sh
+
+HIT ENTER
+
+Unplug power. Replug power and Pi3 should boot into TWRP recovery...
