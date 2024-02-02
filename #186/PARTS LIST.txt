@@ -1,0 +1,15 @@
+2Ω RESISTOR 100W
+6Ω RESISTOR 100W
+10Ω RESISTOR 100W
+4 POS SWITCH
+VOLMETER MODULE
+BANANA JACKS
+LAMP SOCKET
+BULB
+14GA NYMEX WIRE
+28GA WIRE
+M3 THREAD INSERTS
+M3 X 20mm SCREWS
+
+
+NOTE: the flanges on the 100w resitors were cut off in this build, for aesthetic purposes
