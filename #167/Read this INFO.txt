@@ -1,0 +1,3 @@
+Please note revision from video showing 12 v from Boost Converter
+
+E18-D80NK needs 5v only! Remove resistors A and B (jumpers) from Boost board to achieve 5v output
