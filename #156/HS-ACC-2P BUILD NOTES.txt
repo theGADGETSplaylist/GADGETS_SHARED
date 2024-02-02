@@ -1,0 +1,20 @@
+1) Most parts printed with 3 wall counts and 30% unfill.
+
+2) A 470µF electroltytic capacitor was added across MP1584 output to absorb ESP32 current spikes during communication.
+
+3) Real world rotors can be balanced with mandrels using tubing or treaded rod as core and 3D printed adapters to hold component to it.
+
+4) CLEAR "sine" like waveforms are crucial to balancing with HS-ACC. I used the following settings:
+
+10 Hz to 30 Hz Low Pass Filter  3rd ORDER
+
+5) Adjust E18-D80NK potentiometer for best reference
+
+6) You'll find STLs for IR bracket options using heavy gauge coat hanger wire. Wire is bent sharply 180º unto itself for about 13mm and inserted into brackets.
+
+7) IDLER BEAM and MOTOR TRACK have been modified (after video release). Use 1/4-20 thread inserts in idler beam end.
+
+8) Firmware update (after #156 video release) has inverted (corrected) G polarity. Now opposite to that stated at the 4:45 timestamp. RJ45 lock tab to point up on right pedestal.
+
+ENJOY:)
+
