@@ -1,0 +1,12 @@
+PERF BOARD 6 X 28
+ACS712 5A MODULE (polarity as in picture)
+HS402 WIFI CIRCUIT (#137 or #160)
+3 ALLIGATOR CLIPS
+ROUND PIN HEADERS
+B0505S ISOLATOR
+220Ω resistor
+10µF capacitor
+4.7µF capacitor
+Mini560 BUCK CONVERTER
+5A fuse and holder
+ENCLOSURE
