@@ -1,0 +1,12 @@
+male 110v plug
+LM358_V3 AC Voltage Module
+Female BNC
+9v Battery Craddle
+
+
+
+Module and Battery craddle retained with Gorilla Mounting Tape.
+
+Top retaining screw hole left blank to allow print without support enabled. To be drilled.
+
+BNC hole a bit on tight side and may require trimming.
