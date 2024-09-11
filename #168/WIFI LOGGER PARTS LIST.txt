@@ -7,6 +7,6 @@ B0505S ISOLATOR
 220Ω resistor
 10µF capacitor
 4.7µF capacitor
-Mini560 BUCK CONVERTER
+Mini560 BUCK CONVERTER (5v)
 5A fuse and holder
 ENCLOSURE
